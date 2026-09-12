@@ -22,13 +22,13 @@ Affiche le document en cours d'édition au format papier réel en temps réel et
 ## Installation
 
 1. Téléchargez le fichier `.vsix` correspondant à votre système depuis [Releases](https://github.com/acrossreport/acr-viewer-vscode/releases) :
-   - Windows : `acr-viewer-X.X.X-win32-x64.vsix`
-   - macOS (Apple Silicon) : `acr-viewer-X.X.X-darwin-arm64.vsix`
-   - Linux : `acr-viewer-X.X.X-linux-x64.vsix`
+   - Windows : `acr-viewer-vscode-win32-x64-X.X.X.vsix`
+   - macOS (Apple Silicon) : `acr-viewer-vscode-darwin-arm64-X.X.X.vsix`
+   - Linux : `acr-viewer-vscode-linux-x64-X.X.X.vsix`
 2. Installez-le dans VSCode :
 
 \`\`\`
-code --install-extension acr-viewer-X.X.X-<votre-plateforme>.vsix
+code --install-extension acr-viewer-vscode-<votre-plateforme>-X.X.X.vsix
 \`\`\`
 
 ## Plateformes prises en charge
