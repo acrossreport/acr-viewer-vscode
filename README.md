@@ -3,7 +3,7 @@
 A VS Code extension that previews and prints Markdown, plain text, and HTML.
 Renders the document you are editing at true paper size in real time, and exports it as PDF.
 
-[日本語版はこちら](https://github.com/acrossreport/acr-viewer-vscode/blob/main/README.ja.md)
+[日本語版はこちら](https://github.com/acrossreport/acr-viewer-vscode/blob/main/README.ja.md) | [Version française ici](https://github.com/acrossreport/acr-viewer-vscode/blob/main/README.fr.md)
 
 ## Features
 
