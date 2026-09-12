@@ -3,7 +3,7 @@
 VSCode拡張機能として動作するMarkdown・テキスト・HTMLの印刷プレビューツールです。
 編集中のドキュメントを実際の用紙サイズでリアルタイムにレンダリングし、PDFとして出力できます。
 
-[English version here](https://github.com/acrossreport/acr-viewer-vscode/blob/main/README.md)
+[English version here](https://github.com/acrossreport/acr-viewer-vscode/blob/main/README.md) | [Version française ici](https://github.com/acrossreport/acr-viewer-vscode/blob/main/README.fr.md)
 
 ## 特徴
 
