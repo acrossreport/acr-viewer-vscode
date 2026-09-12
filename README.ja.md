@@ -14,6 +14,10 @@ VSCode拡張機能として動作するMarkdown・テキスト・HTMLの印刷�
 - PDF出力対応
 - コードブロック内の日本語・中国語・韓国語フォントの正しいフォールバック表示に対応（v0.0.2〜）
 
+## Marketplaceからインストール（推奨）
+
+[VS Code MarketplaceからACR Report Viewerをインストール](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode)
+
 ## インストール方法
 
 1. [Releases](https://github.com/acrossreport/acr-viewer-vscode/releases) からお使いのOSに対応する `.vsix` をダウンロード
