@@ -14,6 +14,10 @@ Renders the document you are editing at true paper size in real time, and export
 - PDF export
 - Proper CJK (Japanese/Chinese/Korean) font fallback in code blocks (v0.0.2+)
 
+## Install from Marketplace (recommended)
+
+[Install ACR Report Viewer from the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode)
+
 ## Installation
 
 1. Download the `.vsix` file matching your OS from [Releases](https://github.com/acrossreport/acr-viewer-vscode/releases):
