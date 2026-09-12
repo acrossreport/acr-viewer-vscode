@@ -21,13 +21,13 @@ VSCode拡張機能として動作するMarkdown・テキスト・HTMLの印刷�
 ## インストール方法
 
 1. [Releases](https://github.com/acrossreport/acr-viewer-vscode/releases) からお使いのOSに対応する `.vsix` をダウンロード
-   - Windows: `acr-viewer-X.X.X-win32-x64.vsix`
-   - macOS (Apple Silicon): `acr-viewer-X.X.X-darwin-arm64.vsix`
-   - Linux: `acr-viewer-X.X.X-linux-x64.vsix`
+   - Windows: `acr-viewer-vscode-win32-x64-X.X.X.vsix`
+   - macOS (Apple Silicon): `acr-viewer-vscode-darwin-arm64-X.X.X.vsix`
+   - Linux: `acr-viewer-vscode-linux-x64-X.X.X.vsix`
 2. VSCodeで以下を実行:
 
 \`\`\`
-code --install-extension acr-viewer-X.X.X-<お使いのOS名>.vsix
+code --install-extension acr-viewer-vscode-<お使いのOS名>-X.X.X.vsix
 \`\`\`
 
 ## 対応OS
