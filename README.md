@@ -21,13 +21,13 @@ Renders the document you are editing at true paper size in real time, and export
 ## Installation
 
 1. Download the `.vsix` file matching your OS from [Releases](https://github.com/acrossreport/acr-viewer-vscode/releases):
-   - Windows: `acr-viewer-X.X.X-win32-x64.vsix`
-   - macOS (Apple Silicon): `acr-viewer-X.X.X-darwin-arm64.vsix`
-   - Linux: `acr-viewer-X.X.X-linux-x64.vsix`
+   - Windows: `acr-viewer-vscode-win32-x64-X.X.X.vsix`
+   - macOS (Apple Silicon): `acr-viewer-vscode-darwin-arm64-X.X.X.vsix`
+   - Linux: `acr-viewer-vscode-linux-x64-X.X.X.vsix`
 2. Install it in VSCode:
 
 \`\`\`
-code --install-extension acr-viewer-X.X.X-<your-platform>.vsix
+code --install-extension acr-viewer-vscode-<your-platform>-X.X.X.vsix
 \`\`\`
 
 ## Supported platforms
