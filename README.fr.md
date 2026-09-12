@@ -15,6 +15,10 @@ Affiche le document en cours d'édition au format papier réel en temps réel et
 - Export PDF
 - Prise en charge correcte du repli de police CJK (japonais/chinois/coréen) dans les blocs de code (v0.0.2+)
 
+## Installer depuis le Marketplace (recommandé)
+
+[Installer ACR Report Viewer depuis le VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode)
+
 ## Installation
 
 1. Téléchargez le fichier `.vsix` correspondant à votre système depuis [Releases](https://github.com/acrossreport/acr-viewer-vscode/releases) :
