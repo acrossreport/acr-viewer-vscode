@@ -3,34 +3,40 @@
 VSCode拡張機能として動作するMarkdown・テキスト・HTMLの印刷プレビューツールです。
 編集中のドキュメントを実際の用紙サイズでリアルタイムにレンダリングし、PDFとして出力できます。
 
-[English version here](README.md)
+[English version here](https://github.com/acrossreport/acr-viewer-vscode/blob/main/README.md)
 
 ## 特徴
+
 - Markdown / テキスト(.txt) / HTMLに対応
 - Google Skiaエンジンによる正確な用紙サイズプレビュー
 - 保存不要のライブ更新
 - ワンクリックで縦横切替
 - PDF出力対応
+- コードブロック内の日本語・中国語・韓国語フォントの正しいフォールバック表示に対応（v0.0.2〜）
 
 ## インストール方法
-1. [Releases](../../releases) からお使いのOS向けの `.vsix` をダウンロード
+
+1. [Releases](https://github.com/acrossreport/acr-viewer-vscode/releases) からお使いのOSに対応する `.vsix` をダウンロード
+   - Windows: `acr-viewer-X.X.X-win32-x64.vsix`
+   - macOS (Apple Silicon): `acr-viewer-X.X.X-darwin-arm64.vsix`
+   - Linux: `acr-viewer-X.X.X-linux-x64.vsix`
 2. VSCodeで以下を実行:
 
-   ```
-   code --install-extension acr-viewer-X.X.X.vsix
-   ```
+\`\`\`
+code --install-extension acr-viewer-X.X.X-<お使いのOS名>.vsix
+\`\`\`
 
 ## 対応OS
+
 - Windows
+- macOS (Apple Silicon)
 - Linux
-- macOS（対応予定）
 
 ## ショートカット
-- `Ctrl+Alt+A`: 印刷プレビューを開く
-- `Ctrl+Alt+D`: PDFとして出力
+
+- `Ctrl+Alt+0`: 印刷プレビューを開く
+- `Ctrl+Alt+9`: PDFとして出力
 
 ## 詳細情報
-[ACR — Across Report Renderer](https://acrossreport.com/products/vscode)
 
----
-© Across Systems Corporation
+[ACR — Across Report Renderer](https://acrossreport.com/products/vscode)
