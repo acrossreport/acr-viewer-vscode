@@ -39,6 +39,9 @@ code --install-extension acr-viewer-vscode-<お使いのOS名>-X.X.X.vsix
 - macOS (Apple Silicon)
 - Linux
 
+> **Linuxをお使いの方へ:** Snap版のVS Codeは、サンドボックス化されたglibcのバージョンがACRのネイティブレンダリングモジュールと非互換のため非対応です。公式の`.deb`/`.rpm`版、またはCursorをご利用ください。
+
+
 ## ショートカット
 
 - `Ctrl+Alt+0`: 印刷プレビューを開く
