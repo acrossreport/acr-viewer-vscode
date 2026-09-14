@@ -14,7 +14,10 @@ Affiche le document en cours d'édition au format papier réel en temps réel et
 - Basculement portrait/paysage en un clic
 - Export PDF
 - Prise en charge correcte du repli de police CJK (japonais/chinois/coréen) dans les blocs de code (v0.0.2+)
-
+- Rendu des diagrammes Mermaid (flowchart, sequenceDiagram) via un pipeline entièrement en Rust — sans Chromium headless (v0.0.4+)
+- Numéros de page dans le pied de page du PDF (v0.0.4+)
+- Compatibilité confirmée avec Cursor (fork de VS Code) (v0.0.4+)
+  
 ## Installer depuis le Marketplace (recommandé)
 
 [Installer ACR Report Viewer depuis le VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode)
