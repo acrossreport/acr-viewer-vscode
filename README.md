@@ -13,6 +13,9 @@ Renders the document you are editing at true paper size in real time, and export
 - One-click paper orientation toggle
 - PDF export
 - Proper CJK (Japanese/Chinese/Korean) font fallback in code blocks (v0.0.2+)
+- Mermaid diagram rendering (flowchart, sequenceDiagram) via a pure-Rust pipeline — no headless Chromium required (v0.0.4+)
+- Page numbers in PDF footer (v0.0.4+)
+- Cursor (VS Code fork) compatibility confirmed (v0.0.4+)
 
 ## Install from Marketplace (recommended)
 
