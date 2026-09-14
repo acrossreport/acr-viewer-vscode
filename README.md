@@ -39,6 +39,7 @@ code --install-extension acr-viewer-vscode-<your-platform>-X.X.X.vsix
 - macOS (Apple Silicon)
 - Linux
 
+> **Linux users:** The Snap-packaged build of VS Code is not supported due to its sandboxed glibc version, which is incompatible with ACR's native rendering module. Please use the official `.deb`/`.rpm` build, or Cursor.
 ## Keyboard shortcuts
 
 - `Ctrl+Alt+0`: Open print preview
