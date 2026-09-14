@@ -40,6 +40,8 @@ code --install-extension acr-viewer-vscode-<votre-plateforme>-X.X.X.vsix
 - macOS (Apple Silicon)
 - Linux
 
+> **Utilisateurs Linux :** La version Snap de VS Code n'est pas prise en charge, car sa version de glibc en sandbox est incompatible avec le module de rendu natif d'ACR. Veuillez utiliser la version officielle `.deb`/`.rpm`, ou Cursor.
+
 ## Raccourcis clavier
 
 - `Ctrl+Alt+0` : Ouvrir l'aperçu avant impression
