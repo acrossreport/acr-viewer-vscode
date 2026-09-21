@@ -16,6 +16,11 @@ Renders the document you are editing at true paper size in real time, and export
 - Mermaid diagram rendering (flowchart, sequenceDiagram) via a pure-Rust pipeline — no headless Chromium required (v0.0.4+)
 - Page numbers in PDF footer (v0.0.4+)
 - Cursor (VS Code fork) compatibility confirmed (v0.0.4+)
+- Source code printing support (v0.0.5+)
+- Template design view: display an ACR template definition (.json) directly in VS Code (v0.0.6+)
+- Data-merge preview: bind a data JSON to a template and preview the result page by page (v0.0.6+)
+- Save the rendered result as PNG or PDF (v0.0.6+)
+- UI language selection: English / 日本語 / Français (v0.0.6+)
 
 ## Install (recommended)
 
