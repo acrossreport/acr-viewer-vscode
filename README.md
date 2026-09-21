@@ -50,6 +50,8 @@ code --install-extension acr-viewer-vscode-<your-platform>-X.X.X.vsix
 
 - `Ctrl+Alt+0`: Open print preview
 - `Ctrl+Alt+9`: Export as PDF
+- `Ctrl+Alt+8`: Template design view
+- `Ctrl+Alt+7`: Data-merge preview
 
 ## Learn more
 
