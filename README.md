@@ -18,8 +18,10 @@ Renders the document you are editing at true paper size in real time, and export
 - Cursor (VS Code fork) compatibility confirmed (v0.0.4+)
 
 ## Install from Marketplace (recommended)
+## Install (recommended)
 
-[Install ACR Report Viewer from the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode)
+- **VS Code**: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode)
+- **Cursor / VSCodium / other VS Code forks**: [Open VSX Registry](https://open-vsx.org/extension/across-systems/acr-viewer-vscode)
 
 ## Installation
 
