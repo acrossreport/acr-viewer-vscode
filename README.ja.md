@@ -17,7 +17,8 @@ VSCode拡張機能として動作するMarkdown・テキスト・HTMLの印刷�
 - Page numbers in PDF footer (v0.0.4+)
 - Cursor (VS Code fork) compatibility confirmed (v0.0.4+)
 
-## Marketplaceからインストール（推奨）
+## インストール（推奨）
+
 - **VS Code**: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode)
 - **Cursor / VSCodium などのフォーク**: [Open VSX Registry](https://open-vsx.org/extension/across-systems/acr-viewer-vscode)
 
