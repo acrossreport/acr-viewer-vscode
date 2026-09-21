@@ -17,6 +17,11 @@ Affiche le document en cours d'édition au format papier réel en temps réel et
 - Rendu des diagrammes Mermaid (flowchart, sequenceDiagram) via un pipeline entièrement en Rust — sans Chromium headless (v0.0.4+)
 - Numéros de page dans le pied de page du PDF (v0.0.4+)
 - Compatibilité confirmée avec Cursor (fork de VS Code) (v0.0.4+)
+- Impression du code source (v0.0.5+)
+- Affichage de la définition de modèle ACR (v0.0.6+)
+- Aperçu avec fusion de données, page par page (v0.0.6+)
+- Enregistrement du rendu en PNG ou PDF (v0.0.6+)
+- Choix de la langue de l'interface (v0.0.6+)
   
 ## Installer depuis un registre (recommandé)
 
@@ -47,6 +52,8 @@ code --install-extension acr-viewer-vscode-<votre-plateforme>-X.X.X.vsix
 
 - `Ctrl+Alt+0` : Ouvrir l'aperçu avant impression
 - `Ctrl+Alt+9` : Exporter en PDF
+- `Ctrl+Alt+8` : Affichage du modèle
+- `Ctrl+Alt+7` : Aperçu avec fusion de données
 
 ## En savoir plus
 
