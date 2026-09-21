@@ -13,7 +13,7 @@ VSCode拡張機能として動作するMarkdown・テキスト・HTMLの印刷�
 - ワンクリックで縦横切替
 - PDF出力対応
 - コードブロック内の日本語・中国語・韓国語フォントの正しいフォールバック表示に対応（v0.0.2〜）
-- - Mermaid diagram rendering (flowchart, sequenceDiagram) via a pure-Rust pipeline — no headless Chromium required (v0.0.4+)
+- Mermaid diagram rendering (flowchart, sequenceDiagram) via a pure-Rust pipeline — no headless Chromium required (v0.0.4+)
 - Page numbers in PDF footer (v0.0.4+)
 - Cursor (VS Code fork) compatibility confirmed (v0.0.4+)
 
