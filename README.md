@@ -17,7 +17,6 @@ Renders the document you are editing at true paper size in real time, and export
 - Page numbers in PDF footer (v0.0.4+)
 - Cursor (VS Code fork) compatibility confirmed (v0.0.4+)
 
-## Install from Marketplace (recommended)
 ## Install (recommended)
 
 - **VS Code**: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode)
