@@ -16,6 +16,12 @@ VSCode拡張機能として動作するMarkdown・テキスト・HTMLの印刷�
 - Mermaid diagram rendering (flowchart, sequenceDiagram) via a pure-Rust pipeline — no headless Chromium required (v0.0.4+)
 - Page numbers in PDF footer (v0.0.4+)
 - Cursor (VS Code fork) compatibility confirmed (v0.0.4+)
+- ソースコードの印刷に対応 (v0.0.5+)
+- テンプレート定義(.json)のデザイン表示 (v0.0.6+)
+- データJSONを結合したプレビュー(ページ送り付き) (v0.0.6+)
+- 表示結果のPNG/PDF保存 (v0.0.6+)
+- 表示言語の選択(English / 日本語 / Français) (v0.0.6+)
+- 
 
 ## インストール（推奨）
 
@@ -47,7 +53,9 @@ code --install-extension acr-viewer-vscode-<お使いのOS名>-X.X.X.vsix
 
 - `Ctrl+Alt+0`: 印刷プレビューを開く
 - `Ctrl+Alt+9`: PDFとして出力
-
+- `Ctrl+Alt+8`: テンプレートのデザイン表示
+- `Ctrl+Alt+7`: データ結合プレビュー
+  
 ## 詳細情報
 
 [ACR — Across Report Renderer](https://acrossreport.com/products/vscode)
