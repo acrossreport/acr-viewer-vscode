@@ -18,9 +18,10 @@ Affiche le document en cours d'édition au format papier réel en temps réel et
 - Numéros de page dans le pied de page du PDF (v0.0.4+)
 - Compatibilité confirmée avec Cursor (fork de VS Code) (v0.0.4+)
   
-## Installer depuis le Marketplace (recommandé)
+## Installer depuis un registre (recommandé)
 
-[Installer ACR Report Viewer depuis le VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode)
+- **VS Code** : [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=across-systems.acr-viewer-vscode)
+- **Cursor / VSCodium / autres forks** : [Open VSX Registry](https://open-vsx.org/extension/across-systems/acr-viewer-vscode)
 
 ## Installation
 
