@@ -21,6 +21,7 @@ Renders the document you are editing at true paper size in real time, and export
 - Data-merge preview: bind a data JSON to a template and preview the result page by page (v0.0.6+)
 - Save the rendered result as PNG or PDF (v0.0.6+)
 - UI language selection: English / 日本語 / Français (v0.0.6+)
+- Intel Mac (darwin-x64) support (v0.0.6+)
 
 ## Install (recommended)
 
@@ -32,6 +33,7 @@ Renders the document you are editing at true paper size in real time, and export
 1. Download the `.vsix` file matching your OS from [Releases](https://github.com/acrossreport/acr-viewer-vscode/releases):
    - Windows: `acr-viewer-vscode-win32-x64-X.X.X.vsix`
    - macOS (Apple Silicon): `acr-viewer-vscode-darwin-arm64-X.X.X.vsix`
+   - macOS (Intel): `acr-viewer-vscode-darwin-x64-X.X.X.vsix`
    - Linux: `acr-viewer-vscode-linux-x64-X.X.X.vsix`
 2. Install it in VSCode:
 
@@ -43,6 +45,7 @@ code --install-extension acr-viewer-vscode-<your-platform>-X.X.X.vsix
 
 - Windows
 - macOS (Apple Silicon)
+- macOS (Intel)
 - Linux
 
 > **Linux users:** The Snap-packaged build of VS Code is not supported due to its sandboxed glibc version, which is incompatible with ACR's native rendering module. Please use the official `.deb`/`.rpm` build, or Cursor.
