@@ -21,6 +21,7 @@ VSCode拡張機能として動作するMarkdown・テキスト・HTMLの印刷�
 - データJSONを結合したプレビュー(ページ送り付き) (v0.0.6+)
 - 表示結果のPNG/PDF保存 (v0.0.6+)
 - 表示言語の選択(English / 日本語 / Français) (v0.0.6+)
+- Intel Mac(darwin-x64)対応 (v0.0.6+)
 
 ## インストール（推奨）
 
@@ -32,6 +33,7 @@ VSCode拡張機能として動作するMarkdown・テキスト・HTMLの印刷�
 1. [Releases](https://github.com/acrossreport/acr-viewer-vscode/releases) からお使いのOSに対応する `.vsix` をダウンロード
    - Windows: `acr-viewer-vscode-win32-x64-X.X.X.vsix`
    - macOS (Apple Silicon): `acr-viewer-vscode-darwin-arm64-X.X.X.vsix`
+   - macOS (Intel): `acr-viewer-vscode-darwin-x64-X.X.X.vsix`
    - Linux: `acr-viewer-vscode-linux-x64-X.X.X.vsix`
 2. VSCodeで以下を実行:
 
@@ -43,6 +45,7 @@ code --install-extension acr-viewer-vscode-<お使いのOS名>-X.X.X.vsix
 
 - Windows
 - macOS (Apple Silicon)
+- macOS (Intel)
 - Linux
 
 > **Linuxをお使いの方へ:** Snap版のVS Codeは、サンドボックス化されたglibcのバージョンがACRのネイティブレンダリングモジュールと非互換のため非対応です。公式の`.deb`/`.rpm`版、またはCursorをご利用ください。
