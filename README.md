@@ -70,6 +70,10 @@ ARM64 builds for Windows and Linux are available from v0.0.8.
 
 The viewer is a single HTML file (`resources/viewer/acr-zip-viewer.html` inside the extension) that also works on its own in a web browser: open the HTML file and choose a ZIP with "Open ZIP", or drop the ZIP onto the page. It uses no external libraries and needs no network connection. ZIP files made by ACR CLI can be viewed the same way.
 
+## Try it with sample data
+
+Want to try the template design view or data-merge preview right away? [ACR Samples](https://github.com/acrossreport/acr-samples) has ready-to-use template + data pairs you can open directly in this extension.
+
 ## Learn more
 
 [ACR — Across Report Renderer](https://acrossreport.com/products/vscode)

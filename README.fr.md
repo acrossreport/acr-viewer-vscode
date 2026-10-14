@@ -71,6 +71,10 @@ Dans l'aperçu avec fusion de données, « Enregistrer PNG » enregistre un seul
 
 La visionneuse est un seul fichier HTML (`resources/viewer/acr-zip-viewer.html` dans l'extension) qui fonctionne aussi seul dans un navigateur : ouvrez le fichier HTML et choisissez un ZIP avec « Ouvrir un ZIP », ou déposez le ZIP sur la page. Elle n'utilise aucune bibliothèque externe et ne nécessite aucune connexion réseau. Les ZIP créés par ACR CLI s'affichent de la même façon.
 
+## Essayer avec des données d'exemple
+
+Pour essayer tout de suite l'affichage du modèle ou l'aperçu avec fusion de données, [ACR Samples](https://github.com/acrossreport/acr-samples) propose des paires modèle/données prêtes à l'emploi, que vous pouvez ouvrir directement dans cette extension.
+
 ## En savoir plus
 
 [ACR — Across Report Renderer](https://acrossreport.com/products/vscode)

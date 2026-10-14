@@ -71,6 +71,10 @@ WindowsとLinuxのARM64版は、v0.0.8から提供しています。
 
 ビューアは1つのHTMLファイル(拡張機能の中の `resources/viewer/acr-zip-viewer.html`)で、ブラウザ単体でも使えます。HTMLファイルを開いて「ZIPを開く」でZIPを選ぶか、ZIPを画面にドラッグしてください。外部ライブラリやネット接続は使いません。ACR CLIで作ったZIPも、同じように表示できます。
 
+## サンプルデータで試す
+
+テンプレートのデザイン表示やデータ結合プレビューをすぐ試したい場合は、[ACR Samples](https://github.com/acrossreport/acr-samples) にすぐ使えるテンプレート・データのペアがあります。この拡張機能で直接開けます。
+
 ## 詳細情報
 
 [ACR — Across Report Renderer](https://acrossreport.com/products/vscode)
