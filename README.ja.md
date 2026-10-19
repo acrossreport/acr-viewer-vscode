@@ -73,7 +73,7 @@ WindowsとLinuxのARM64版は、v0.0.8から提供しています。
 
 ## サンプルデータで試す
 
-テンプレートのデザイン表示やデータ結合プレビューをすぐ試したい場合は、[ACR Samples](https://github.com/acrossreport/acr-samples) にすぐ使えるテンプレート・データのペアがあります。この拡張機能で直接開けます。
+テンプレートのデザイン表示やデータ結合プレビューをすぐ試したい場合は、[ACR Samples](https://github.com/acrossreport/acr-data-samples) にすぐ使えるテンプレート・データのペアがあります。この拡張機能で直接開けます。
 
 ## 詳細情報
 

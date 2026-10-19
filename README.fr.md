@@ -73,7 +73,7 @@ La visionneuse est un seul fichier HTML (`resources/viewer/acr-zip-viewer.html` 
 
 ## Essayer avec des données d'exemple
 
-Pour essayer tout de suite l'affichage du modèle ou l'aperçu avec fusion de données, [ACR Samples](https://github.com/acrossreport/acr-samples) propose des paires modèle/données prêtes à l'emploi, que vous pouvez ouvrir directement dans cette extension.
+Pour essayer tout de suite l'affichage du modèle ou l'aperçu avec fusion de données, [ACR Samples](https://github.com/acrossreport/acr-data-samples) propose des paires modèle/données prêtes à l'emploi, que vous pouvez ouvrir directement dans cette extension.
 
 ## En savoir plus
 

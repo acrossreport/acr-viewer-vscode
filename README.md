@@ -72,7 +72,7 @@ The viewer is a single HTML file (`resources/viewer/acr-zip-viewer.html` inside 
 
 ## Try it with sample data
 
-Want to try the template design view or data-merge preview right away? [ACR Samples](https://github.com/acrossreport/acr-samples) has ready-to-use template + data pairs you can open directly in this extension.
+Want to try the template design view or data-merge preview right away? [ACR Samples](https://github.com/acrossreport/acr-data-samples) has ready-to-use template + data pairs you can open directly in this extension.
 
 ## Learn more
 
